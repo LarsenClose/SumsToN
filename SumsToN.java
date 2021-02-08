@@ -1,11 +1,10 @@
 import java.util.Scanner;
 
 /*	
- *	CS4050-01
- *	Larsen Close
- * Greg Dews
- * Suart Griffin
- *	Exercise 2
+ *	   CS4050-01
+ *	   Larsen Close
+ *    Suart Griffin
+ *    Exercise 2
  */
 
 public class SumsToN {
